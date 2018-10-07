@@ -1,0 +1,4 @@
+<img width="80" height="80" class="logo" src="assets/stemid-icon.png" alt="stemid logo"/>
+<ion-tabs #navTabs *ngIf="tabs" [selectedIndex]="selectedTabIndex" (ionChange)="onTabChange($event)">
+  <ion-tab *ngFor="let t of tabs" [root]="t.component" [tabTitle]="t.title | translate" [tabIcon]="t.icon"></ion-tab>
+</ion-tabs>

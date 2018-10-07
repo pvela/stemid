@@ -1,0 +1,27 @@
+{
+  "generator-ngx-rocket": {
+    "version": "5.2.0",
+    "props": {
+      "location": "path",
+      "target": [
+        "web",
+        "cordova"
+      ],
+      "pwa": false,
+      "mobile": [
+        "ios",
+        "android"
+      ],
+      "ui": "ionic",
+      "layout": "tabs",
+      "auth": true,
+      "angulartics": true,
+      "analyticsProvider": "ga",
+      "googleAnalyticsAccount": "UA-345649-12",
+      "prettier": true,
+      "appName": "stemid",
+      "projectName": "stemid",
+      "packageManager": "npm"
+    }
+  }
+}
