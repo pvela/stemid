@@ -75,3 +75,12 @@ Defining the market and pricing strategy
 Launching to the market
 
 
+## Screenshots
+
+![Step1](/screenshots/step1.png = 200x400)
+![Step2](/screenshots/step2.png = 200x400)
+![Step3](/screenshots/step3.png = 200x400)
+![Step4](/screenshots/step4.png = 200x400)
+![Step5](/screenshots/step5.png = 200x400)
+![Step6](/screenshots/step6.png = 200x400)
+![Step7](/screenshots/step7.png = 200x400)
