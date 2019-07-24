@@ -11,7 +11,10 @@ The process of ID verification is repetitive, disjointed, time consuming and imp
 
 Powered by technology, the data that contributes to our uniqueness instead can serve to enhance our consumer experience without having to go through repetitive verification. Whit this in mind, StemID was born. Our personality can safely bloom supported by StemID. 
 
+## Team
 
+Prabhu Velayutham
+Olga Slonchak
 
 ## What it does 
 
@@ -73,14 +76,3 @@ Working with Bloom to fine-tune integration
 Defining the market and pricing strategy
 
 Launching to the market
-
-
-## Screenshots
-
-![Step1](/screenshots/step1.png = 200x400)
-![Step2](/screenshots/step2.png = 200x400)
-![Step3](/screenshots/step3.png = 200x400)
-![Step4](/screenshots/step4.png = 200x400)
-![Step5](/screenshots/step5.png = 200x400)
-![Step6](/screenshots/step6.png = 200x400)
-![Step7](/screenshots/step7.png = 200x400)
