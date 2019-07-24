@@ -13,8 +13,8 @@ Powered by technology, the data that contributes to our uniqueness instead can s
 
 ## Team
 
-Prabhu Velayutham
-Olga Slonchak
+* Prabhu Velayutham
+* Olga Slonchak
 
 ## What it does 
 
